@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @karllinhoZ
+- 👀 I’m interested in web design
+- 🌱 I’m currently learning typescript
+- 💞️ I’m looking to collaborate on a new social network
+- 📫 How to reach me? Just use your email! garagem.do.karllinhoz@gmail.com
