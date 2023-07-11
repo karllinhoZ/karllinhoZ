@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @karllinhoZ
-- 👩‍💻 I’m interested in web design
-- 🤔 I’m currently learning typescript
+- 👩‍💻 I’m interested in mobile development (Android)
+- 🤔 I’m currently learning Java and Kotlin.
 - 📢 How to reach me? Just use your email! garagem.do.karllinhoz@gmail.com
